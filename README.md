@@ -1,7 +1,6 @@
-- 👋 Hi, I’m DanialFS
-- 👀 I’m interested in write codes
-- 🌱 I`m from Kazakhstan
-- 💞️ I’m 1.7 y.o
+- 👋 DanialFS
+- 👀 From Kazakhstan
+- 🌱 18 yers old
 - 📫 How to reach me - danial20051225@gmail.com https://wa.me/+77078166535
 
 <!---
