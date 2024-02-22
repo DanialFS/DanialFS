@@ -1,6 +1,6 @@
 - 👋 DanialFS
-- 👀 From Kazakhstan
-- 🌱 18 yers old
+- 👀 Kazakhstan
+- 🌱 18 y.o
 - 📫 How to reach me - danial20051225@gmail.com https://wa.me/+77078166535
 
 <!---
